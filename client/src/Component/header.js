@@ -93,7 +93,7 @@ function Header() {
 		<>
 			<div id="site-content">
 				<div class="site-header">
-					<div class="container-fluid">
+					<div class="container">
 						<a id="branding">
 							<img src={logo} alt="" class="logo" />
 							<div class="logo-copy">

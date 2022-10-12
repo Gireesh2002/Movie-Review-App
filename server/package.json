@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gireesh2002/Movie-Review-App"
+    "url": "git+https://github.com/Gireesh2002/Movie-Review-App.git"
   },
   "keywords": [
     "Web",
@@ -18,9 +18,9 @@
   "author": "Gireesh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Gireesh2002/Movie-Review-App"
+    "url": "https://github.com/Gireesh2002/Movie-Review-App.git"
   },
-  "homepage": "https://github.com/Gireesh2002/Movie-Review-App",
+  "homepage": "https://github.com/Gireesh2002/Movie-Review-App.git",
   "dependencies": {
     "-": "^0.0.1",
     "axios": "^0.27.2",
